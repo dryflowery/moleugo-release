@@ -344,11 +344,11 @@
         <div id="right-container"> <!--오른쪽 컨테이너 시작-->
 
           <div id="lawn-container"><!--잔디밭 컨테이너 시작-->
-            <img id="lawn" src="assets/잔디밭.png">
+            <img id="lawn" src="https://github.com/user-attachments/assets/5936a6d9-494a-49b6-b9b6-f8333780fd0c">
           </div>
 
           <div id="community"><!--잔디밭 컨테이너 시작-->
-            <img id="log" src="assets/갤로그.png">
+            <img id="log" src="https://github.com/user-attachments/assets/addd25aa-927c-416e-bd39-162d8cff5bf0">
           </div>
 
         </div ><!--오른쪽 컨테이너 끝-->

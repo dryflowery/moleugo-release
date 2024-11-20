@@ -29,7 +29,7 @@
           {#if !$isLogin}
             <div id="locked-box-daily">
               <!-- svelte-ignore a11y-missing-attribute -->
-              <img src="assets/lock.png" style="height: 130px;">
+              <img src="https://github.com/user-attachments/assets/bfecdcf1-d0a3-4d86-84fc-e08f209ce704" style="height: 130px;">
               <p>로그인 하고 컨텐츠 보기</p>
             </div>
           {/if}
@@ -67,7 +67,7 @@
 
           {#if !$isLogin} <!--자물쇠 이미지 보이기 on/off-->
           <!-- svelte-ignore a11y-missing-attribute -->
-          <img id='locked' src="assets/lock.png" style="height: 20px;">
+          <img id='locked' src="https://github.com/user-attachments/assets/bfecdcf1-d0a3-4d86-84fc-e08f209ce704" style="height: 20px;">
           {/if}
 
         </t>
@@ -94,7 +94,7 @@
           
           {#if !$isLogin} <!--자물쇠 이미지 보이기 on/off-->
           <!-- svelte-ignore a11y-missing-attribute -->
-          <img id='locked' src="assets/lock.png" style="height: 20px;">
+          <img id='locked' src="https://github.com/user-attachments/assets/bfecdcf1-d0a3-4d86-84fc-e08f209ce704" style="height: 20px;">
           {/if}
           
           </t>

@@ -26,7 +26,7 @@
      
         <div id="main-right-container">
              <div id="algo-gif-container">
-                <img src="assets/algoGif.gif" alt="visualized algorithm" id="algo-gif">
+                <img src="https://github.com/user-attachments/assets/b422265a-7c68-4236-9d18-529141c4894e" alt="visualized algorithm" id="algo-gif">
              </div>
         </div>
     </div>

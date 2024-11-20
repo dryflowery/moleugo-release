@@ -24,7 +24,7 @@
     
     <div id="menu-toggle-container">
         <div id="menu-circle" on:click={setAlgorithmListVisible}>
-            <img src="assets/menu.png" alt="" id="menu-toggle-icon">
+            <img src="https://github.com/user-attachments/assets/5165d044-367f-4d41-ad06-521863217c0c" alt="" id="menu-toggle-icon">
         </div>
     </div>
 
